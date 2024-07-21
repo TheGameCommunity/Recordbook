@@ -6,7 +6,7 @@ The latest recordbook is located [HERE](https://docs.google.com/spreadsheets/d/1
 
 Old recordbooks can be found in the `/excitebots/oldbooks` folder
 
-## Excite Truck recordbook
-The latest recordbook is located here: [ADD LINK]
+## [Excite Truck recordbook](https://docs.google.com/spreadsheets/d/1sAPtW5pIAvkabNPFhse0JAwTWzfmVuPe6BBq6--mW1g)
+The latest recordbook is located here: [HERE](https://docs.google.com/spreadsheets/d/1sAPtW5pIAvkabNPFhse0JAwTWzfmVuPe6BBq6--mW1g)
 
 Old recordbooks can be found in the `/excite truck/oldbooks` folder
